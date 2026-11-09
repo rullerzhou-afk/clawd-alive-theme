@@ -33,7 +33,7 @@ Copy this folder into your Clawd on Desk themes folder as `clawd-alive`, then pi
 
 - The moments are picked at random, without mood or time of day. A late-night yawn can show up at noon.
 - Every sleep has the twitching leg.
-- The confirm sound is off in this version. The completion sound is the same as in Clawd on Desk.
+- Both the confirm and completion sounds use the built-in sounds from Clawd on Desk.
 - Tested on Ubuntu with GNOME under XWayland only. It has not been tried on Windows or macOS.
 
 ## The full Clawd Alive

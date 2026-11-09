@@ -3,6 +3,7 @@
   "name": "Clawd Alive",
   "author": "Allan Oliveira Miraballes",
   "version": "1.0.0",
+  "license": "CC BY-NC-SA 4.0",
   "description": "Clawd with more personality: little idle moments, a dreamy sleep and work animations that get more chaotic as more agents run.",
   "repo": "https://github.com/AllanOliveiraM/clawd-alive-theme",
   "rendering": {
@@ -2110,9 +2111,5 @@
     "heightRatio": 1.3,
     "offsetX": -0.45,
     "offsetY": -0.25
-  },
-  "sounds": {
-    "complete": "complete.mp3",
-    "confirm": null
   }
 }
